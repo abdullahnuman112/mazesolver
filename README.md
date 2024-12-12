@@ -136,5 +136,5 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 For questions or suggestions, please contact:
 
 - **Email**: x2023dvf\@stfx.ca
-- **GitHub**: [Your GitHub Profile](https://github.com/abdullahnuman112)
+- **GitHub**:(https://github.com/abdullahnuman112)
 
